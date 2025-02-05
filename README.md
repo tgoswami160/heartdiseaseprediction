@@ -33,7 +33,7 @@ This project analyzes the performance of various machine learning models in pred
 | **SVM**               | 74.07%    | 69%     | 93%       |  
 | **Naïve Bayes**       | 87%       | 87%     | 90%       |  
 | **Decision Tree**     | 72.2%     | 82%     | 62%       |  
-| **Random Forest**     | **87.03%  | 82%     | 93%       |  
+| **Random Forest**     | 87.03%    | 82%     | 93%       |  
 | **Linear Regression** | 52.06%    | 45%     | 65%       |  
 
 ## **Conclusion**  
